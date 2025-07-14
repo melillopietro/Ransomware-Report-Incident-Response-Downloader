@@ -1,0 +1,7 @@
+requests
+pandas
+tk
+pymupdf
+spacy
+openpyxl
+ddgs
